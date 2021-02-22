@@ -1,5 +1,3 @@
-## Bruno Peres - User Experience Designer
-
 Over 10 years of UX and digital experience. Possess extensive knowledge about technologies, digital trends and best practices.
 
 Solid experience with top tier Retail, Automotive, Banking, Pharmaceutical, and CPG companies. Brands include Stellantis, Walmart, Unilever, Volkswagen, CIBC, TD Bank and others.
