@@ -1,13 +1,10 @@
 Senior User Experience Designer
 
-Over 10 years of UX and digital experience. Possess extensive knowledge about technologies, digital trends and best practices.
+Interdisciplinary designer passionate about problem solving, prototyping, and lean ux.
 
-Solid experience with top tier Retail, Automotive, Banking, Pharmaceutical, and CPG companies. Brands include Stellantis, Walmart, Unilever, Volkswagen, CIBC, TD Bank and others.
+With over 10 years of UX and digital experience, Bruno has worked with top tier retail, finance, automotive, pharmaceutical, and CPG clients, such as Stellantis (FCA), Volkswagen, Walmart, Samsung, McDonald's, TDBank, CIBC and Unilever.
 
-Technically Savvy UX Designer. Experience with Agile UX, Sketch, Axure, InVision, Adobe Suite, HTML, CSS, JavaScript, GIT and related technologies. Extensive knowledge of Bug Tracking and UX Research.
-
-Game Development Degree from George Brown College
-Languages – fluent in English, Portuguese; basic Spanish, French 
+You can send me a message on [linkedin](https://www.linkedin.com/in/brunohenriqueperes/).
 
 ### Links
 [Resume](https://docs.google.com/document/d/1rwcoRHGj-qfcAoYFPHCtbo9xIoZj0uFu7LuqLr6QSUM/edit?usp=sharing).<br />
