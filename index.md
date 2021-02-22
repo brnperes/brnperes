@@ -1,4 +1,4 @@
-### Senior User Experience Designer
+Senior User Experience Designer
 
 Over 10 years of UX and digital experience. Possess extensive knowledge about technologies, digital trends and best practices.
 
