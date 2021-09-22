@@ -9,3 +9,5 @@ You can send me a message on [linkedin](https://www.linkedin.com/in/brunohenriqu
 ### Links
 [Resume](https://docs.google.com/document/d/1rwcoRHGj-qfcAoYFPHCtbo9xIoZj0uFu7LuqLr6QSUM/edit?usp=sharing).<br />
 [Linkedin](https://www.linkedin.com/in/brunohenriqueperes/).
+
+Go to [about page](about.md)
