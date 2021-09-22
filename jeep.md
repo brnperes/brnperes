@@ -1,4 +1,9 @@
-Senior User Experience Designer
+---
+title: ABOUT PAGE
+layout: template
+filename: about.md
+--- 
+AHOY!
 
 Interdisciplinary designer passionate about problem solving, prototyping, and lean ux.
 
